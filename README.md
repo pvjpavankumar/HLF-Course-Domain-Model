@@ -1,7 +1,3 @@
-This code is part of a course on Hyperledger Fabric
-For more information on the course, please visit 
-
-http://ACloudFan.com
 
 * airlinev1
   Used in the lecture on Introduction to modeling a Resource
